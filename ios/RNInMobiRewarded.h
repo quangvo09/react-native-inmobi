@@ -8,7 +8,7 @@
 
 @import InMobiSDK;
 
-@interface RNSmaatoRewarded : RCTEventEmitter <RCTBridgeModule, IMInterstitialDelegate>
+@interface RNInMobiRewarded : RCTEventEmitter <RCTBridgeModule, IMInterstitialDelegate>
 
 @end
   

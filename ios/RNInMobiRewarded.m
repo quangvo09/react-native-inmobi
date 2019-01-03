@@ -15,7 +15,7 @@ static NSString *const kEventRewarded = @"rewardedVideoAdRewarded";
 static NSString *const kEventVideoStarted = @"rewardedVideoAdVideoStarted";
 static NSString *const kEventVideoCompleted = @"rewardedVideoAdVideoCompleted";
 
-@implementation RNSmaatoRewarded
+@implementation RNInMobiRewarded
 {
     NSString *_placementID;
     IMInterstitial *_interstitial;
